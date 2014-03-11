@@ -1,0 +1,4 @@
+[Project]
+Name=05-tree
+Manager=KDevCMakeManager
+VersionControl=kdevgit
